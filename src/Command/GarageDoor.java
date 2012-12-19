@@ -13,7 +13,7 @@ public class GarageDoor {
         System.out.println("opening garagedoor");
     }
 
-    public void down() {
+    public void close() {
         System.out.println("Closing garagedoor");
     }
 }

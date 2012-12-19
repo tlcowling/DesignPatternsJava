@@ -3,6 +3,11 @@ package Command;
 public class NoCommand implements Command {
     @Override
     public void execute() {
-        //To change body of implemented methods use File | Settings | File Templates.
+        System.out.println("An implementation of a null object.");
+    }
+
+    @Override
+    public void undo() {
+        System.out.println("No action to undo");
     }
 }
