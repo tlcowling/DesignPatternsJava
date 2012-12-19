@@ -1,5 +1,7 @@
 package Command;
 
+import Command.Lights.Light;
+import Command.Lights.LightOnCommand;
 import org.junit.Test;
 
 public class SimpleRemoteControlTest {

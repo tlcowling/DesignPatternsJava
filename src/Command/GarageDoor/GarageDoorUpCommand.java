@@ -1,4 +1,4 @@
-package Command;
+package Command.GarageDoor;
 
 public class GarageDoorUpCommand {
     private GarageDoor garageDoor;

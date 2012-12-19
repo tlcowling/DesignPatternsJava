@@ -1,4 +1,6 @@
-package Command;
+package Command.Lights;
+
+import Command.Command;
 
 public class LightOnCommand implements Command {
     Light light;

@@ -1,4 +1,6 @@
-package Command;
+package Command.Stereo;
+
+import Command.Command;
 
 public class StereoOnWithCDCommand implements Command {
     private Stereo stereo;

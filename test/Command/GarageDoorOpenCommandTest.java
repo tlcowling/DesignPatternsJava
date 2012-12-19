@@ -1,5 +1,7 @@
 package Command;
 
+import Command.GarageDoor.GarageDoor;
+import Command.GarageDoor.GarageDoorOpenCommand;
 import org.junit.Test;
 
 public class GarageDoorOpenCommandTest {

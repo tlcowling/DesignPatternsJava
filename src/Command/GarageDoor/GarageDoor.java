@@ -1,4 +1,6 @@
-package Command;
+package Command.GarageDoor;
+
+import Command.Command;
 
 public class GarageDoor {
     private String identity;

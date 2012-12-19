@@ -3,6 +3,15 @@ package Command;
 import Command.CeilingFan.CeilingFan;
 import Command.CeilingFan.CeilingFanOffCommand;
 import Command.CeilingFan.CeilingFanOnCommand;
+import Command.GarageDoor.GarageDoor;
+import Command.GarageDoor.GarageDoorDownCommand;
+import Command.GarageDoor.GarageDoorUpCommand;
+import Command.Lights.Light;
+import Command.Lights.LightOffCommand;
+import Command.Lights.LightOnCommand;
+import Command.Stereo.Stereo;
+import Command.Stereo.StereoOffCommand;
+import Command.Stereo.StereoOnWithCDCommand;
 
 public class RemoteLoader {
 
